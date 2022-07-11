@@ -1,0 +1,26 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonaldVilorio/maps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonaldVilorio/maps/issues"
+  },
+  "homepage": "https://github.com/RonaldVilorio/maps#readme",
+  "dependencies": {
+    "@types/faker": "^6.6.9"
+  },
+  "devDependencies": {
+    "faker": "^5.5.3"
+  }
+}

@@ -17,10 +17,7 @@
     "url": "https://github.com/RonaldVilorio/maps/issues"
   },
   "homepage": "https://github.com/RonaldVilorio/maps#readme",
-  "dependencies": {
-    "@types/faker": "^6.6.9"
-  },
   "devDependencies": {
-    "faker": "^5.5.3"
+    "@faker-js/faker": "^7.3.0"
   }
 }

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/RonaldVilorio/maps#readme",
   "devDependencies": {
     "@faker-js/faker": "^7.3.0"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.43.3"
   }
 }
